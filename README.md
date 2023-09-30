@@ -1,5 +1,7 @@
-
 ### Olá!!! Meu nome é Renan Santos✌️
+### Tenho 17 anos
+### Novo no GitHub
+### Estudante de Redes de Computadores na rede SENAI Jandita
 [![OS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 ![Skills](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
 ![OS](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
